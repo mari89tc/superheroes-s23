@@ -2,15 +2,7 @@ const superheroes = [
   {
     name: "Bruce Wayne",
     good: true,
-    power: [
-      "money",
-      "strength",
-      "wings",
-      "jawline",
-      "immortal",
-      "genius",
-      "karate",
-    ],
+    power: ["money", "strength", "wings", "jawline", "immortal", "genius", "karate"],
     height: 188,
     dob: {
       year: 1939,
@@ -29,8 +21,7 @@ const superheroes = [
       month: 4,
       day: 25,
     },
-    image:
-      "https://www.kino.dk/sites/default/files/primary-pictures/the-batman.jpg",
+    image: "https://www.kino.dk/sites/default/files/primary-pictures/the-batman.jpg",
   },
   {
     name: "Catwoman",
@@ -42,8 +33,7 @@ const superheroes = [
       month: 3,
       day: 31,
     },
-    image:
-      "https://static.wikia.nocookie.net/dc-superherogirls/images/0/01/CI_NSwitch_DCSuperHeroGirlsTP_CatWomen.png/revision/latest?cb=20210605135951",
+    image: "https://static.wikia.nocookie.net/dc-superherogirls/images/0/01/CI_NSwitch_DCSuperHeroGirlsTP_CatWomen.png/revision/latest?cb=20210605135951",
   },
 
   {
@@ -56,8 +46,7 @@ const superheroes = [
       month: "3",
       day: "31",
     },
-    image:
-      "https://www.latercera.com/resizer/L_HtYppsEdUCt9tTXinm3e0bqwk=/900x600/filters:focal(372x205:382x195)/cloudfront-us-east-1.images.arcpublishing.com/copesa/GKMIGUJ4TZD2BH6EZK76R4OEKE.jpg",
+    image: "https://www.latercera.com/resizer/L_HtYppsEdUCt9tTXinm3e0bqwk=/900x600/filters:focal(372x205:382x195)/cloudfront-us-east-1.images.arcpublishing.com/copesa/GKMIGUJ4TZD2BH6EZK76R4OEKE.jpg",
   },
   {
     name: "Json Derulo",
@@ -73,8 +62,7 @@ const superheroes = [
     good: true,
     height: 180,
     dob: { year: 1989, month: 5, day: 16 },
-    image:
-      "https://www.imdb.com/title/tt5509176/mediaviewer/rm3242858496/?ref_=tt_ov_i",
+    image: "https://www.imdb.com/title/tt5509176/mediaviewer/rm3242858496/?ref_=tt_ov_i",
   },
   {
     name: "jSONman",
@@ -86,8 +74,7 @@ const superheroes = [
       month: 9,
       date: 9,
     },
-    image:
-      "https://i.pinimg.com/736x/bb/85/b4/bb85b48059d56585c660d93c51dba850--superhero-names-superhero-ideas.jpg",
+    image: "https://i.pinimg.com/736x/bb/85/b4/bb85b48059d56585c660d93c51dba850--superhero-names-superhero-ideas.jpg",
   },
   {
     name: "Mr. Snakeman",
@@ -112,8 +99,7 @@ const superheroes = [
       month: 12,
       day: 18,
     },
-    image:
-      "https://static.wikia.nocookie.net/characterprofile/images/d/d5/Hulk.png/revision/latest?cb=20160103071611",
+    image: "https://static.wikia.nocookie.net/characterprofile/images/d/d5/Hulk.png/revision/latest?cb=20160103071611",
   },
   {
     name: "spiderman",
@@ -121,8 +107,7 @@ const superheroes = [
     good: true,
     height: 178,
     dob: { year: 1962, month: 8, day: 10 },
-    image:
-      "https://hbomax-images.warnermediacdn.com/images/GYeg4RQeJUMINtwEAAAHk/tileburnedin?size=1280x720&partner=hbomaxcom&v=adb737e6fe62cf76e6e48973c853fe7c&host=art-gallery.api.hbo.com&language=da-dk&w=1280",
+    image: "https://hbomax-images.warnermediacdn.com/images/GYeg4RQeJUMINtwEAAAHk/tileburnedin?size=1280x720&partner=hbomaxcom&v=adb737e6fe62cf76e6e48973c853fe7c&host=art-gallery.api.hbo.com&language=da-dk&w=1280",
   },
   {
     name: "black panter",
@@ -139,14 +124,7 @@ const superheroes = [
   },
   {
     name: "Spaghettimonster",
-    power: [
-      "flying",
-      "invisibility",
-      "invulnerability",
-      "immortality",
-      "omnificent",
-      "omniscience",
-    ],
+    power: ["flying", "invisibility", "invulnerability", "immortality", "omnificent", "omniscience"],
     good: false,
     height: 5433,
     dob: {
@@ -154,8 +132,7 @@ const superheroes = [
       month: 1,
       day: 1,
     },
-    image:
-      "https://mentormedier-dagen-prod.cdn.arcpublishing.com/resizer/3YjllgWDvaVWF-G53T_XwA2_oew=/arc-photo-mentormedier/eu-central-1-prod/public/RFZXDDIGXOI3R5WUSA2X6MAYO4.jpg",
+    image: "https://mentormedier-dagen-prod.cdn.arcpublishing.com/resizer/3YjllgWDvaVWF-G53T_XwA2_oew=/arc-photo-mentormedier/eu-central-1-prod/public/RFZXDDIGXOI3R5WUSA2X6MAYO4.jpg",
   },
   {
     name: "Spiderman",
@@ -180,8 +157,7 @@ const superheroes = [
       month: 8,
       day: 10,
     },
-    image:
-      "https://i-viaplay-com.akamaized.net/viaplay-prod/876/528/1646293395-c0c1299686959bf392ec32984548c30445be69e2.jpg?width=960&height=540",
+    image: "https://i-viaplay-com.akamaized.net/viaplay-prod/876/528/1646293395-c0c1299686959bf392ec32984548c30445be69e2.jpg?width=960&height=540",
   },
   {
     name: "antman",
@@ -193,8 +169,24 @@ const superheroes = [
       month: 1,
       day: 27,
     },
-    image:
-      "https://www.lego.com/cdn/cs/set/assets/blt64173c3e44a0a011/antman--Sidekick-Tall-1.jpg?fit=crop&format=jpg&quality=80&width=800&height=600&dpr=1",
+    image: "https://www.lego.com/cdn/cs/set/assets/blt64173c3e44a0a011/antman--Sidekick-Tall-1.jpg?fit=crop&format=jpg&quality=80&width=800&height=600&dpr=1",
   },
 ];
 console.table(superheroes);
+
+superheroes.forEach(showHero);
+
+function showHero(item) {
+  const template = document.querySelector("template").content;
+  const clone = template.cloneNode(true);
+  clone.querySelector(".name").textContent = item.name;
+  clone.querySelector(".power").textContent = item.power;
+  clone.querySelector(".good").textContent = item.good;
+  clone.querySelector(".height").textContent = item.height;
+  clone.querySelector(".dob").textContent = item.dob.year;
+  clone.querySelector(".dob1").textContent = item.dob.month;
+  clone.querySelector(".dob2").textContent = item.dob.day;
+  clone.querySelector(".img").src = item.image;
+  const parent = document.querySelector("main");
+  parent.appendChild(clone);
+}
